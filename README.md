@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am undergraduate Student from Biratnagar International Collage. I am studying Bachelors. I like Coding.
 
-<!--
-**arbish911/arbish911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working On: A Python Tic-Tac-Toe game for coursework.
+🌱 Learning: Python, focusing on functions, validation, and algorithms.
+👯 Collaborating On: Beginner Python projects & game development.
+🤔 Seeking Help With: Function optimization & code structure.
+💬 Ask Me About: Python basics & problem-solving.
+📫 Reach Me: [Your contact]
+😄 Pronouns: [Your pronouns]
+⚡ Fun Fact: Studying at Biratnagar International College, passionate about coding!
+  
