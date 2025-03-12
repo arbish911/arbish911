@@ -9,7 +9,5 @@ Here are some ideas to get you started:
 👯 Collaborating On: Beginner Python projects & game development.
 🤔 Seeking Help With: Function optimization & code structure.
 💬 Ask Me About: Python basics & problem-solving.
-📫 Reach Me: [Your contact]
-😄 Pronouns: [Your pronouns]
 ⚡ Fun Fact: Studying at Biratnagar International College, passionate about coding!
   
